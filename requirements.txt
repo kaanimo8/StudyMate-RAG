@@ -1,0 +1,7 @@
+google-generativeai
+langchain
+chromadb
+sentence-transformers
+streamlit
+
+
